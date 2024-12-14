@@ -112,12 +112,6 @@ Welcome to **VisionEdge**, an innovative and lightweight real-time object detect
 
 ---
 
-## **Demo Video**
-Watch the project in action on YouTube:  
-[**VisionEdge Object Detection Demo**](https://youtu.be/your-video-link)
-
----
-
 ## **Contributors**
 - **Your Name** Sourav Agrawal
 - **Team Members** Rajdeep Mohanty
